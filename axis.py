@@ -4,4 +4,4 @@ import GPUP
 
 
 class axis();
-def_init(self, y, x, y):
+def_init_(self, y, x, y):
